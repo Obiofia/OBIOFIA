@@ -5,9 +5,13 @@ I build and document real-world cloud and DevOps solutions focused on reliabilit
 
 I approach every project like a production environment: designing for high availability, performance, and resilience while continuously sharpening my engineering judgment.
 
+
+
 ## Objective
 
 Design and implement secure, scalable, and highly available cloud infrastructure that supports real business workloads — with strong emphasis on automation, load balancing, containerized deployments, infrastructure as code, and operational visibility.
+
+
 
 ## Skills
 
@@ -28,6 +32,8 @@ Design and implement secure, scalable, and highly available cloud infrastructure
 | Cloud Security & Access Control (IAM, Hardening) | <a href="PROJECT_LINK">Secure Cloud Architecture Implementation</a> |
 | Reliability Engineering & Production Readiness | <a href="PROJECT_LINK">High-Availability System Design</a> |
 | End-to-End DevOps Project Delivery | <a href="PROJECT_LINK">Real-World DevOps Deployment Case Study</a> |
+
+
 
 ## Tools & Technologies
 
@@ -87,6 +93,8 @@ Design and implement secure, scalable, and highly available cloud infrastructure
   <img src="https://img.shields.io/badge/-DevSecOps-0A0A0A?&style=for-the-badge&logo=owasp&logoColor=white" />
 </div>
 
+
+
 ## Projects
 <a href="PROJECT_LINK">Linux Administration & Bash Automation</a><br>
 <a href="PROJECT_LINK">Network Design & Connectivity Lab</a><br>
@@ -103,6 +111,7 @@ Design and implement secure, scalable, and highly available cloud infrastructure
 <a href="PROJECT_LINK">Secure Cloud Architecture Implementation</a><br>
 <a href="PROJECT_LINK">High-Availability System Design</a><br>
 <a href="PROJECT_LINK">Real-World DevOps Deployment Case Study</a>
+
 
 
 ## Philosophy
